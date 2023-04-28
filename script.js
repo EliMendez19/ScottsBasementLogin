@@ -4,7 +4,7 @@ const form = document.getElementById("password-form");
 const userEmail = 'emen0145@stu.cfisd.net';
 
 // check if the user's email matches a specific email
-if (userEmail === 'emen0145@stu.cfisd.net') {
+if (userEmail === 'edu.cfisd.net') {
   // if the user's email matches, redirect them to a different site
   window.location.href = 'https://www.example.com';
 }
